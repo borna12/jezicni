@@ -1,0 +1,163 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jezični portal",
+    "description": "",
+    "home_page_url": "https://borna12.github.io/jezicni",
+    "feed_url": "https://borna12.github.io/jezicni/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Institut za hrvatski jezik i jezikoslovlje"
+    },
+    "items": [
+        {
+            "id": "https://borna12.github.io/jezicni/rjecnikhr.html",
+            "url": "https://borna12.github.io/jezicni/rjecnikhr.html",
+            "title": "Rječnik.hr",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\nwindow.location.href = \"http://xn--rjenik-k2a.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/10/skolski-rjecnik.jpg",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:18:00+01:00",
+            "date_modified": "2020-02-26T14:21:12+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html",
+            "url": "https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html",
+            "title": "Repozitorij metafora hrvatskoga jezika",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\nwindow.location.href = \"http://ihjj.hr/metafore/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/24/repozitorij.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:11:43+01:00",
+            "date_modified": "2020-02-26T14:26:44+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html",
+            "url": "https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html",
+            "title": "Kolokacijska baza hrvatskoga jezika",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://ihjj.hr/kolokacije/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/23/kolokacijska-baza.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:09:30+01:00",
+            "date_modified": "2020-02-26T14:09:30+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html",
+            "url": "https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html",
+            "title": "Baza hrvatskih glagolskih valencija",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://valencije.ihjj.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/22/e-glava.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:07:17+01:00",
+            "date_modified": "2020-02-26T14:07:17+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html",
+            "url": "https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html",
+            "title": "Baza frazema hrvatskoga jezika",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://frazemi.ihjj.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/21/frazem.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:05:04+01:00",
+            "date_modified": "2020-02-26T14:05:04+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/hrvatski-na-maturi.html",
+            "url": "https://borna12.github.io/jezicni/hrvatski-na-maturi.html",
+            "title": "Hrvatski na maturi",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\nwindow.location.href = \"http://matura.ihjj.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/20/hrvatski-matura.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:02:05+01:00",
+            "date_modified": "2020-02-26T14:26:08+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/hrvatski-terminoloski-portal.html",
+            "url": "https://borna12.github.io/jezicni/hrvatski-terminoloski-portal.html",
+            "title": "Hrvatski terminološki portal",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://nazivlje.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/19/terminoloski-portal.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T14:00:14+01:00",
+            "date_modified": "2020-02-26T14:00:14+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/hrvatski-jezicna-riznica.html",
+            "url": "https://borna12.github.io/jezicni/hrvatski-jezicna-riznica.html",
+            "title": "Hrvatska jezična riznica",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\nwindow.location.href = \"http://riznica.ihjj.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/18/riznica.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T13:57:46+01:00",
+            "date_modified": "2020-02-26T14:00:21+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/hrvatski-u-skoli.html",
+            "url": "https://borna12.github.io/jezicni/hrvatski-u-skoli.html",
+            "title": "Hrvatski u školi",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://hrvatski.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/17/hrvatski.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T13:55:04+01:00",
+            "date_modified": "2020-02-26T13:55:04+01:00"
+        },
+        {
+            "id": "https://borna12.github.io/jezicni/boljehr.html",
+            "url": "https://borna12.github.io/jezicni/boljehr.html",
+            "title": "Bolje.hr",
+            "summary": "// ",
+            "content_html": "<script type=\"text/javascript\">// <![CDATA[\n    window.location.href = \"http://bolje.hr/\";\n// ]]></script>",
+            "image": "https://borna12.github.io/jezicni/media/posts/16/bolje.hr.JPG",
+            "author": {
+                "name": "Institut za hrvatski jezik i jezikoslovlje"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-26T13:31:40+01:00",
+            "date_modified": "2020-02-26T13:31:40+01:00"
+        }
+    ]
+}
