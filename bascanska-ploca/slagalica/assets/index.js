@@ -7,7 +7,7 @@ function broj() {
 
 
 
-$(document).ready(function() {
+$(document).ready(function () {
     $(".modal").fadeIn("slow");
     $(".footer").fadeIn("slow");
     $("#broj-puzzla").html(retci * stupci)
@@ -92,6 +92,12 @@ function stvori() {
             naziv = naziveng;
             confirm_button = "new game"
         }*/
+    if ($(window).width() < 800) { 
+        slika="bascanska.jpg"
+    }
+    else{
+        slika="bascanska2.jpg"
+    }
     confirm_button = "nova igra"
     $("#replay").fadeIn("slow")
     retci = $("#retci").val();
@@ -118,7 +124,7 @@ function stvori() {
     var totalPieces = 0;
     // as of ZIM 5.5.0 you do not need to put zim before ZIM functions and classes
     var frame = new Frame(scaling, width, height);
-    frame.on("ready", function() {
+    frame.on("ready", function () {
         zog("ready from ZIM Frame"); // logs in console (F12 - choose console)
 
         var stage = frame.stage;
@@ -159,17 +165,17 @@ function stvori() {
         stage.addChild(label);
         stage.addChild(label2);
         label.x = label.y = 20;
-         label2.y = 20;
+        label2.y = 20;
         label2.x = stageW - 180;
-        label.on("click", function() {
+        label.on("click", function () {
             zog("clicking");
         });
 
-        label2.on("click", function() {
+        label2.on("click", function () {
             location.reload();
         });
 
-        frame.on("complete", function() {
+        frame.on("complete", function () {
             imageObj = frame.asset(slika).clone();
             imageObj.addTo(con);
             imageObj.alpha = 0.2;
@@ -238,7 +244,7 @@ function stvori() {
                     var context = s.graphics;
                     s.drag();
                     s.mouseChildren = false;
-                    s.addEventListener("pressup", function(e) {
+                    s.addEventListener("pressup", function (e) {
                         var mc = e.currentTarget;
 
                         var xx = Math.round(mc.x);
@@ -258,11 +264,11 @@ function stvori() {
                             if (countPieces == totalPieces) {
 
                                 swal({
-                                    html: '<h1 style="text-align:center">'+naslov+'</h1><img src="assets/' + slika + '" class="ikone2"/><br><br>',
+                                    html: '<h1 style="text-align:center">Čestitam</h1><img src="assets/' + slika + '" class="ikone2"/><br><br>',
                                     confirmButtonText: confirm_button,
                                     allowOutsideClick: false
                                 });
-                                $('.swal2-confirm').click(function() {
+                                $('.swal2-confirm').click(function () {
                                     location.reload();
                                 });
                             };
