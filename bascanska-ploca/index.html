@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>KOLOFON</title>
+    <title>Baščanska ploča</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
@@ -34,13 +34,13 @@
 
     <style>
         .ist {
-            background-color: rgb(104, 0, 2)!important
+            background-color: rgb(104, 0, 2) !important
         }
-        
+
         .juxtapose {
             max-width: 100%;
         }
-        
+
         .jx-slider {
             margin-top: 1em;
         }
@@ -56,25 +56,30 @@
     </div>
 
     <div class="kontejner">
-        <h1>KOLOFON</h1>
-        <p>
 
-            Novak je svoju knjigu namijenio kao zavjetni dar crkvi u kojoj će jednom biti pokopan. Sve je to objasnio u opširnom <strong>kolofonu</strong>, bilješci koja u starim knjigama govori o okolnostima njihova nastanka, a slična je današnjemu impresumu. Pritom je svoju knjigu i datirao 1368. godinom, što njegov rukopis čini <strong>najstarijim datiranim</strong> hrvatskoglagoljskim misalom.
+        <h1>Baščanska ploča</h1>
 
-        </p>
-
-        <br>
-        <br>
-        <h2 style="text-align:center">Novakov zapis</h2>
+        <p>Bašćanska ploča jedan je od najvrednijih spomenika rane hrvatske pismenosti, a datira se u doba oko 1100.
+            godine. Izvorno je bila natpis na pregradnoj ploči (pluteus) pregrade koja je dijelila redovnički kor od
+            crkvene lađe u crkvi svete Lucije u Jurandvoru (Baška Draga na otoku Krku). Od 1934. smještena je u zgradi
+            Hrvatske akademije znanosti i umjetnosti.</p>
+        <div class="section group">
+            <div class="col span_1_of_2" style="text-align: center; cursor: pointer;">
+                <a onclick="klizac(1)">transliteracija</a></div>
+            <div class="col span_1_of_2" style="text-align: center; cursor: pointer">
+                <a onclick="klizac(2)">prijevod</a></div>
+        </div>
 
         <div class="juxtapose sijena" id="horizontal-demo">
 
-        </div><br><br></div>
+        </div><br><br>
+    </div>
 
 
     </div>
 
     <script>
+        kliz = "prijevod"
         function myFunction() {
             var x = document.getElementById("myTopnav");
             if (x.className === "topnav") {
@@ -83,7 +88,7 @@
                 x.className = "topnav";
             }
         }
-        $(document).ready(function() {
+        $(document).ready(function () {
             $("#pocetna").fadeIn(900);
 
         });
@@ -91,27 +96,71 @@
         $(".handle").draggable({
             axis: "x",
             containment: "parent",
-            drag: function() {
+            drag: function () {
                 var position = $(this).position();
                 var positionExtra = position.left + 6;
                 $(".coverImage").width(positionExtra + "px");
             }
         });
+        var startingPosition = "50%"
         slider_horizontal = new juxtapose.JXSlider('#horizontal-demo', [{
-            src: 'slike/Novakov%20zapis.PNG',
+            src: 'slike/bascanska-prijevod.jpg',
             label: '',
             credit: ''
         }, {
-            src: 'slike/Novakov%20zapis.jpg',
+            src: 'slike/bascanska.jpg',
             label: '',
             credit: ""
         }], {
             animate: true,
             showLabels: false,
             showCredits: false,
-            startingPosition: "50%",
+            startingPosition: startingPosition,
             makeResponsive: true
         });
+
+        function klizac(x) {
+            startingPosition = $(".jx-handle")[0].style.left
+            if (x == 1) {
+                $(".jx-slider")[0].remove()
+                slider_horizontal = new juxtapose.JXSlider('#horizontal-demo', [{
+                    src: 'slike/bascanska-transliteracija.jpg',
+                    label: '',
+                    credit: ''
+                }, {
+                    src: 'slike/bascanska.jpg',
+                    label: '',
+                    credit: ""
+                }], {
+                    animate: true,
+                    showLabels: false,
+                    showCredits: false,
+                    startingPosition: startingPosition,
+                    makeResponsive: true
+                });
+
+            }
+            else {
+                
+                $(".jx-slider")[0].remove()
+                slider_horizontal = new juxtapose.JXSlider('#horizontal-demo', [{
+                    src: 'slike/bascanska-prijevod.jpg',
+                    label: '',
+                    credit: ''
+                }, {
+                    src: 'slike/bascanska.jpg',
+                    label: '',
+                    credit: ""
+                }], {
+                    animate: true,
+                    showLabels: false,
+                    showCredits: false,
+                    startingPosition: startingPosition,
+                    makeResponsive: true
+                });
+            }
+
+        }
     </script>
 
 
