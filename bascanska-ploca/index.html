@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Baščanska ploča</title>
+    <title>Bašćanska ploča</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
@@ -57,7 +57,7 @@
 
     <div class="kontejner">
 
-        <h1>Baščanska ploča</h1>
+        <h1>Bašćanska ploča</h1>
 
         <p>Bašćanska ploča jedan je od najvrednijih spomenika rane hrvatske pismenosti, a datira se u doba oko 1100.
             godine. Izvorno je bila natpis na pregradnoj ploči (pluteus) pregrade koja je dijelila redovnički kor od
@@ -93,12 +93,17 @@
         <p>&nbsp;</p>
         <p style="text-align: center;">pritisni sliku da odigraš slagalicu</p>
         <a href="slagalica/index.html"><img src="slagalica.jpg" style="max-height: 400px;display: block; margin: auto;" class="sijena"></a>
+        <a href="http://ihjj.hr/"><img style="display:block;margin: auto; max-height: 50px; margin-top: 50px;" src="ihjj.png"></a>
+        <p style="text-align: center;">© <span id="year"></span> Institut za hrvatski jezik i jezikoslovlje</p>
+
     </div>
 
 
     </div>
 
     <script>
+            document.getElementById("year").innerHTML = new Date().getFullYear();
+
         kliz = "prijevod"
         function myFunction() {
             var x = document.getElementById("myTopnav");
