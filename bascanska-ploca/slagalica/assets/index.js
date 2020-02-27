@@ -246,7 +246,6 @@ function stvori() {
                             mc.mouseEnabled = false;
                             mc.hint.visible = false;
                             countPieces++;
-                            label.text = countPieces + "/" + totalPieces;
                             zog("countPieces", countPieces);
                             if (countPieces == totalPieces) {
 
