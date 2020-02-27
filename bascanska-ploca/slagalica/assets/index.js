@@ -143,14 +143,6 @@ function stvori() {
         var piecesArrayObj = [];
         frame.loadAssets([slika], "assets/");
 
-        var label = new Label({
-            text: "CLICK",
-            size: 60,
-            font: "Helvetica Neue",
-            color: "#680002",
-            rollColor: "#990003",
-            fontOptions: "italic bold"
-        });
 
         var label2 = new Label({
             text: "CLICK",
@@ -162,14 +154,10 @@ function stvori() {
         });
 
 
-        stage.addChild(label);
         stage.addChild(label2);
-        label.x = label.y = 20;
         label2.y = 20;
         label2.x = stageW - 180;
-        label.on("click", function () {
-            zog("clicking");
-        });
+       
 
         label2.on("click", function () {
             location.reload();
@@ -201,7 +189,6 @@ function stvori() {
             imageObj.pos(puzzleX, puzzleY);
             zog(puzzleX, puzzleY);
 
-            label.text = countPieces + "/" + totalPieces;
 
             label2.text = confirm_button
 
