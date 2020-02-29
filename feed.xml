@@ -3,7 +3,7 @@
     <title>Jezični portal</title>
     <link href="https://borna12.github.io/jezicni/feed.xml" rel="self" />
     <link href="https://borna12.github.io/jezicni" />
-    <updated>2020-02-26T20:44:20+01:00</updated>
+    <updated>2020-02-29T19:07:35+01:00</updated>
     <author>
         <name>Institut za hrvatski jezik i jezikoslovlje</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://borna12.github.io/jezicni/rjecnikhr.html"/>
         <id>https://borna12.github.io/jezicni/rjecnikhr.html</id>
 
-        <updated>2020-02-26T14:21:12+01:00</updated>
+        <updated>2020-02-29T18:34:07+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/10/skolski-rjecnik.jpg" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/10/skolski.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/10/skolski-rjecnik.jpg" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/10/skolski.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
 window.location.href = "http://xn--rjenik-k2a.hr/";
 // ]]></script>
@@ -41,16 +41,16 @@ window.location.href = "http://xn--rjenik-k2a.hr/";
         <link href="https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html"/>
         <id>https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html</id>
 
-        <updated>2020-02-26T14:26:44+01:00</updated>
+        <updated>2020-02-29T15:28:40+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/24/repozitorij.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/24/metafora.JPG" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/24/repozitorij.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/24/metafora.JPG" alt="" />
                 <script type="text/javascript">// <![CDATA[
 window.location.href = "http://ihjj.hr/metafore/";
 // ]]></script>
@@ -65,18 +65,18 @@ window.location.href = "http://ihjj.hr/metafore/";
         <link href="https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html"/>
         <id>https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html</id>
 
-        <updated>2020-02-26T14:09:30+01:00</updated>
+        <updated>2020-02-29T15:14:44+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacijska-baza.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacija.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacijska-baza.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacija.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://ihjj.hr/kolokacije/";
+window.location.href = "http://ihjj.hr/kolokacije/";
 // ]]></script>
             ]]>
         </content>
@@ -89,18 +89,18 @@ window.location.href = "http://ihjj.hr/metafore/";
         <link href="https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html"/>
         <id>https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html</id>
 
-        <updated>2020-02-26T14:07:17+01:00</updated>
+        <updated>2020-02-29T15:06:14+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/22/e-glava.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/22/valencije.JPG" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/22/e-glava.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/22/valencije.JPG" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://valencije.ihjj.hr/";
+window.location.href = "http://valencije.ihjj.hr/";
 // ]]></script>
             ]]>
         </content>
@@ -113,7 +113,7 @@ window.location.href = "http://ihjj.hr/metafore/";
         <link href="https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html"/>
         <id>https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html</id>
 
-        <updated>2020-02-26T14:05:04+01:00</updated>
+        <updated>2020-02-29T15:40:07+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://borna12.github.io/jezicni/media/posts/21/frazem.JPG" alt="" />
@@ -124,7 +124,7 @@ window.location.href = "http://ihjj.hr/metafore/";
             <![CDATA[
                     <img src="https://borna12.github.io/jezicni/media/posts/21/frazem.JPG" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://frazemi.ihjj.hr/";
+window.location.href = "http://frazemi.ihjj.hr/";
 // ]]></script>
             ]]>
         </content>
@@ -137,16 +137,16 @@ window.location.href = "http://ihjj.hr/metafore/";
         <link href="https://borna12.github.io/jezicni/hrvatski-na-maturi.html"/>
         <id>https://borna12.github.io/jezicni/hrvatski-na-maturi.html</id>
 
-        <updated>2020-02-26T14:26:08+01:00</updated>
+        <updated>2020-02-29T17:17:27+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/20/hrvatski-matura.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/20/matura.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/20/hrvatski-matura.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/20/matura.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
 window.location.href = "http://matura.ihjj.hr/";
 // ]]></script>
@@ -209,18 +209,18 @@ window.location.href = "http://riznica.ihjj.hr/";
         <link href="https://borna12.github.io/jezicni/hrvatski-u-skoli.html"/>
         <id>https://borna12.github.io/jezicni/hrvatski-u-skoli.html</id>
 
-        <updated>2020-02-26T13:55:04+01:00</updated>
+        <updated>2020-02-29T18:33:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/17/hrvatski.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/17/hr-skola.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/17/hrvatski.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/17/hr-skola.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://hrvatski.hr/";
+window.location.href = "http://hrvatski.hr/";
 // ]]></script>
             ]]>
         </content>
@@ -233,18 +233,18 @@ window.location.href = "http://riznica.ihjj.hr/";
         <link href="https://borna12.github.io/jezicni/boljehr.html"/>
         <id>https://borna12.github.io/jezicni/boljehr.html</id>
 
-        <updated>2020-02-26T13:31:40+01:00</updated>
+        <updated>2020-02-29T18:33:34+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/16/bolje.hr.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/16/bolje.hr.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://bolje.hr/";
+window.location.href = "http://bolje.hr/";
 // ]]></script>
             ]]>
         </content>
