@@ -3,12 +3,60 @@
     <title>Jezični portal</title>
     <link href="https://borna12.github.io/jezicni/feed.xml" rel="self" />
     <link href="https://borna12.github.io/jezicni" />
-    <updated>2020-03-01T00:29:18+01:00</updated>
+    <updated>2020-03-01T18:30:42+01:00</updated>
     <author>
         <name>Institut za hrvatski jezik i jezikoslovlje</name>
     </author>
     <id>https://borna12.github.io/jezicni</id>
 
+    <entry>
+        <title>Hrvatski pravopis</title>
+        <author>
+            <name>Institut za hrvatski jezik i jezikoslovlje</name>
+        </author>
+        <link href="https://borna12.github.io/jezicni/hrvatski-pravopis.html"/>
+        <id>https://borna12.github.io/jezicni/hrvatski-pravopis.html</id>
+
+        <updated>2020-03-01T02:57:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://borna12.github.io/jezicni/media/posts/13/pravopis.jpg" alt="" />
+                    // 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://borna12.github.io/jezicni/media/posts/13/pravopis.jpg" alt="" />
+                <script type="text/javascript">// <![CDATA[
+window.location.href = "http://pravopis.hr/";
+// ]]></script>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hrvatska školska gramatika</title>
+        <author>
+            <name>Institut za hrvatski jezik i jezikoslovlje</name>
+        </author>
+        <link href="https://borna12.github.io/jezicni/hrvatska-skolska-gramatika.html"/>
+        <id>https://borna12.github.io/jezicni/hrvatska-skolska-gramatika.html</id>
+
+        <updated>2020-03-01T02:56:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://borna12.github.io/jezicni/media/posts/14/gramatika.jpeg" alt="" />
+                    // 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://borna12.github.io/jezicni/media/posts/14/gramatika.jpeg" alt="" />
+                <script type="text/javascript">// <![CDATA[
+window.location.href = "http://gramatika.hr/";
+// ]]></script>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rječnik.hr</title>
         <author>
@@ -17,7 +65,7 @@
         <link href="https://borna12.github.io/jezicni/rjecnikhr.html"/>
         <id>https://borna12.github.io/jezicni/rjecnikhr.html</id>
 
-        <updated>2020-02-29T18:34:07+01:00</updated>
+        <updated>2020-03-01T02:56:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://borna12.github.io/jezicni/media/posts/10/skolski.jpg" alt="" />
@@ -34,97 +82,73 @@ window.location.href = "http://xn--rjenik-k2a.hr/";
         </content>
     </entry>
     <entry>
-        <title>Repozitorij metafora hrvatskoga jezika</title>
+        <title>Jezični savjetnik</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html"/>
-        <id>https://borna12.github.io/jezicni/repozitorij-metafora-hrvatskoga-jezika.html</id>
+        <link href="https://borna12.github.io/jezicni/jezicni-savjetnik.html"/>
+        <id>https://borna12.github.io/jezicni/jezicni-savjetnik.html</id>
 
-        <updated>2020-02-29T15:28:40+01:00</updated>
+        <updated>2020-03-01T02:56:04+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/24/metafora.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/15/jezicni-savjetnik.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/24/metafora.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/15/jezicni-savjetnik.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
-window.location.href = "http://ihjj.hr/metafore/";
+window.location.href = "http://jezicni-savjetnik.hr/";
 // ]]></script>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Kolokacijska baza hrvatskoga jezika</title>
+        <title>Bolje.hr</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html"/>
-        <id>https://borna12.github.io/jezicni/kolokacijska-baza-hrvatskoga-jezika.html</id>
+        <link href="https://borna12.github.io/jezicni/boljehr.html"/>
+        <id>https://borna12.github.io/jezicni/boljehr.html</id>
 
-        <updated>2020-02-29T15:14:44+01:00</updated>
+        <updated>2020-03-01T02:55:10+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacija.jpg" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/23/kolokacija.jpg" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
                 <script type="text/javascript">// <![CDATA[
-window.location.href = "http://ihjj.hr/kolokacije/";
+window.location.href = "http://bolje.hr/";
 // ]]></script>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Baza hrvatskih glagolskih valencija</title>
+        <title>Hrvatski u školi</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html"/>
-        <id>https://borna12.github.io/jezicni/baza-hrvatskih-glagolskih-valencija.html</id>
+        <link href="https://borna12.github.io/jezicni/hrvatski-u-skoli.html"/>
+        <id>https://borna12.github.io/jezicni/hrvatski-u-skoli.html</id>
 
-        <updated>2020-02-29T15:06:14+01:00</updated>
+        <updated>2020-03-01T03:45:44+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/22/valencije.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/17/hr_skola.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/22/valencije.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/17/hr_skola.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
-window.location.href = "http://valencije.ihjj.hr/";
-// ]]></script>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Baza frazema hrvatskoga jezika</title>
-        <author>
-            <name>Institut za hrvatski jezik i jezikoslovlje</name>
-        </author>
-        <link href="https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html"/>
-        <id>https://borna12.github.io/jezicni/baza-frazema-hrvatskoga-jezika.html</id>
-
-        <updated>2020-02-29T15:40:07+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/21/frazem.JPG" alt="" />
-                    // 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/21/frazem.JPG" alt="" />
-                <script type="text/javascript">// <![CDATA[
-window.location.href = "http://frazemi.ihjj.hr/";
+window.location.href = "http://hrvatski.hr/";
 // ]]></script>
             ]]>
         </content>
@@ -137,7 +161,7 @@ window.location.href = "http://frazemi.ihjj.hr/";
         <link href="https://borna12.github.io/jezicni/hrvatski-na-maturi.html"/>
         <id>https://borna12.github.io/jezicni/hrvatski-na-maturi.html</id>
 
-        <updated>2020-02-29T17:17:27+01:00</updated>
+        <updated>2020-03-01T02:54:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://borna12.github.io/jezicni/media/posts/20/matura.jpg" alt="" />
@@ -154,99 +178,58 @@ window.location.href = "http://matura.ihjj.hr/";
         </content>
     </entry>
     <entry>
-        <title>Hrvatski terminološki portal</title>
+        <title>Iz povijesti hrvatskoga jezika</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/hrvatski-terminoloski-portal.html"/>
-        <id>https://borna12.github.io/jezicni/hrvatski-terminoloski-portal.html</id>
+        <link href="https://borna12.github.io/jezicni/iz-povijesti-hrvatskoga-jezika.html"/>
+        <id>https://borna12.github.io/jezicni/iz-povijesti-hrvatskoga-jezika.html</id>
 
-        <updated>2020-02-26T14:00:14+01:00</updated>
+        <updated>2020-03-01T02:53:41+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/19/terminoloski-portal.JPG" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/11/collage.jpg" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/19/terminoloski-portal.JPG" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/11/collage.jpg" alt="" />
                 <script type="text/javascript">// <![CDATA[
-    window.location.href = "http://nazivlje.hr/";
+window.location.href = "http://ihjj.hr/iz-povijesti-hrvatskoga-jezika/#event-iz-povijesti-hrvatskoga-jezika";
 // ]]></script>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Hrvatska jezična riznica</title>
+        <title>Hrvatska glagoljica</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/hrvatski-jezicna-riznica.html"/>
-        <id>https://borna12.github.io/jezicni/hrvatski-jezicna-riznica.html</id>
+        <link href="https://borna12.github.io/jezicni/hrvatska-glagoljica.html"/>
+        <id>https://borna12.github.io/jezicni/hrvatska-glagoljica.html</id>
 
-        <updated>2020-02-26T14:00:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/18/riznica.JPG" alt="" />
-                    // 
-                ]]>
-            </summary>
+        <updated>2020-03-01T02:53:22+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/18/riznica.JPG" alt="" />
-                <script type="text/javascript">// <![CDATA[
-window.location.href = "http://riznica.ihjj.hr/";
+                    <img src="https://borna12.github.io/jezicni/media/posts/2/glagoljica.jpg" alt="" />
+                <script>// <![CDATA[
+windows.open("http://hrvatski.hr/volim-glagoljicu/","_self")
 // ]]></script>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Hrvatski u školi</title>
+        <title>Hrvatska ćirilica</title>
         <author>
             <name>Institut za hrvatski jezik i jezikoslovlje</name>
         </author>
-        <link href="https://borna12.github.io/jezicni/hrvatski-u-skoli.html"/>
-        <id>https://borna12.github.io/jezicni/hrvatski-u-skoli.html</id>
+        <link href="https://borna12.github.io/jezicni/hrvatska-cirilica.html"/>
+        <id>https://borna12.github.io/jezicni/hrvatska-cirilica.html</id>
 
-        <updated>2020-02-29T18:33:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/17/hr-skola.jpg" alt="" />
-                    // 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/17/hr-skola.jpg" alt="" />
-                <script type="text/javascript">// <![CDATA[
-window.location.href = "http://hrvatski.hr/";
-// ]]></script>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bolje.hr</title>
-        <author>
-            <name>Institut za hrvatski jezik i jezikoslovlje</name>
-        </author>
-        <link href="https://borna12.github.io/jezicni/boljehr.html"/>
-        <id>https://borna12.github.io/jezicni/boljehr.html</id>
-
-        <updated>2020-02-29T18:33:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
-                    // 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/16/boljehr.png" alt="" />
-                <script type="text/javascript">// <![CDATA[
-window.location.href = "http://bolje.hr/";
-// ]]></script>
-            ]]>
-        </content>
+        <updated>2020-03-01T02:53:06+01:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
