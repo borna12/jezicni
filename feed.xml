@@ -3,7 +3,7 @@
     <title>Jezični portal</title>
     <link href="https://borna12.github.io/jezicni/feed.xml" rel="self" />
     <link href="https://borna12.github.io/jezicni" />
-    <updated>2020-03-01T18:30:42+01:00</updated>
+    <updated>2020-03-03T13:33:38+01:00</updated>
     <author>
         <name>Institut za hrvatski jezik i jezikoslovlje</name>
     </author>
@@ -137,16 +137,16 @@ window.location.href = "http://bolje.hr/";
         <link href="https://borna12.github.io/jezicni/hrvatski-u-skoli.html"/>
         <id>https://borna12.github.io/jezicni/hrvatski-u-skoli.html</id>
 
-        <updated>2020-03-01T03:45:44+01:00</updated>
+        <updated>2020-03-02T11:22:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://borna12.github.io/jezicni/media/posts/17/hr_skola.jpg" alt="" />
+                        <img src="https://borna12.github.io/jezicni/media/posts/17/hs.JPG" alt="" />
                     // 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://borna12.github.io/jezicni/media/posts/17/hr_skola.jpg" alt="" />
+                    <img src="https://borna12.github.io/jezicni/media/posts/17/hs.JPG" alt="" />
                 <script type="text/javascript">// <![CDATA[
 window.location.href = "http://hrvatski.hr/";
 // ]]></script>
