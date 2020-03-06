@@ -64,10 +64,12 @@
             crkvene lađe u crkvi svete Lucije u Jurandvoru (Baška Draga na otoku Krku). Od 1934. smještena je u zgradi
             Hrvatske akademije znanosti i umjetnosti.</p>
         <div class="section group">
-            <div class="col span_1_of_2" style="text-align: center; cursor: pointer;">
+            <div class="col span_1_of_3" style="text-align: center; cursor: pointer;">
                 <a onclick="klizac(1)">transliteracija</a></div>
-            <div class="col span_1_of_2" style="text-align: center; cursor: pointer">
+            <div class="col span_1_of_3" style="text-align: center; cursor: pointer">
                 <a onclick="klizac(2)">prijevod</a></div>
+                <div class="col span_1_of_3" style="text-align: center; cursor: pointer">
+                    <a onclick="klizac(3)">slova</a></div>
         </div>
 
         <div class="juxtapose sijena" id="horizontal-demo">
@@ -165,6 +167,26 @@
                 });
 
             }
+            else if (x == 3) {
+                $(".jx-slider")[0].remove()
+                slider_horizontal = new juxtapose.JXSlider('#horizontal-demo', [{
+                    src: 'slike/bascanska-slova.jpg',
+                    label: '',
+                    credit: ''
+                }, {
+                    src: 'slike/bascanska.jpg',
+                    label: '',
+                    credit: ""
+                }], {
+                    animate: true,
+                    showLabels: false,
+                    showCredits: false,
+                    startingPosition: startingPosition,
+                    makeResponsive: true
+                });
+
+            }
+
             else {
                 
                 $(".jx-slider")[0].remove()
