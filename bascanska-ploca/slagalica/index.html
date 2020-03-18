@@ -9,11 +9,11 @@
     <!-- ZIM runs on the HTML Canvas powered by JavaScript and CreateJS http://createjs.com -->
     <!-- Founded by Inventor Dan Zen - http://danzen.com - Canadian New Media Award Winner 	-->
     <!-- ZIM is free to use. You can donate to help improve ZIM at http://zimjs.com/donate 	-->
-    <meta name="description" content="Zabavi se spajajući dijelove slagalica.">
+    <meta name="description" content="Spoji dijelove slagalice u Bašćansku ploču.">
     <meta name="author" content="Josip Mihaljević">
-    <link rel="stylesheet" href="../stlye.css" />
     <link rel="stylesheet" href="css/stil.css" />
     <script src="assets/createjs_1.1_min.js"></script>
+    
     <script>
         var zon = true; // set to false to turn off console messages from zim
         var zns = false; // set to true to require zim namespace - eg. new zim.Frame()
@@ -24,25 +24,15 @@
     <script type="text/javascript" src="assets/index.js"></script>
     <meta name="viewport" content="width=device-width, user-scalable=no" />
     <link href="css/fontawesome-all.css" rel="stylesheet">
-    <meta property="og:title" content="Slagalice" />
-    <meta property="og:description" content="Slagalica - Bašćanska ploča" />
-    <meta property="og:image" content="og-slika.png" />
-    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <meta property="og:title" content="Slagalica - Bašćanska ploča" />
+    <meta property="og:description" content="Spoji dijelove slagalice u Bašćansku ploču." />
+    <meta property="og:image" content="naslovnica.jpg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="http://jezik.hr/images//apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="http://jezik.hr/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="http://jezik.hr/images/favicon-16x16.png">
+  
     <link rel="manifest" href="manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
     <link rel="stylesheet" href="css/sweetalert2.min.css">
     <script src="assets/sweetalert2.min.js"></script>
     <script src='assets/lightzoom.js'></script>
@@ -65,7 +55,7 @@
 
             </div>-->
             <div id="content">
-                <h1 id="naslov">Slagalice</h1>
+                <h1 id="naslov">Složi Bašćansku ploču</h1>
                 <p class="opis">odaberite broj komadića i započnite igru</p>
                 <div style="text-align: center;">
                     <div class="kom_izbornik">
@@ -120,11 +110,12 @@
                     </div>
                 </div>
                 <p class="centar"><span id="ukupan">ukupan broj komadića za slaganje: </span><span id="broj-puzzla"></span></p>
-               <h1 onclick="stvori();" style="text-align: center;cursor: pointer;">započni
+               <h1 onclick="stvori();" style="text-align: center;cursor: pointer; color:#9D0C1E">započni
                </h1>
-               <p  style="text-align: center"><a href="../index.html">vrati se nazad</a></p>
-                <!--<p class="centar"  ><a href="../" style="text-align: center; color: rgb(104, 0, 2);" id="nazad">ODABERI DRUGU IGRU</a></p>-->
+               <img onclick="stvori();" src="naslovna.jpg" style="display: block; margin: auto; max-width: 100%; max-height: 400px; cursor: pointer;">
 
+                <!--<p class="centar"  ><a href="../" style="text-align: center; color: rgb(104, 0, 2);" id="nazad">ODABERI DRUGU IGRU</a></p>-->
+               <p style="text-align: center;">© 2020 <a href="http://ihjj.hr/" target="_blank" style="color:initial; text-decoration: none;">Institut za hrvatski jezik i jezikoslovlje</a></p>
             </div>
         </div>
     </div>

@@ -1,43 +1,4 @@
-  @font-face {
-      font-family: cardo;
-      src: url(Cardo-Regular.ttf);
-  }
 
-  @font-face {
-      font-family: cardo-strong;
-      src: url(Cardo-Bold.ttf);
-  }
-
-  @font-face {
-      font-family: cardo-italic;
-      src: url(Cardo-Italic.ttf);
-  }
-
-  @font-face {
-      font-family: cardo;
-      src: url(Cardo-Regular.ttf);
-  }
-
-  @font-face {
-      font-family: cardo-strong;
-      src: url(Cardo-Bold.ttf);
-  }
-
-  @font-face {
-      font-family: cardo-italic;
-      src: url(Cardo-Italic.ttf);
-  }
-
-  @font-face {
-      font-family: 'Gla';
-      src: url('fsgla.eot');
-      src: url('fsgla.eot?#iefix') format('embedded-opentype'), url('fsgla.woff') format('woff'), url('fsgla.TTF') format('truetype');
-  }
-
-  @font-face {
-      font-family: 'Gla';
-      src: url('fsgla.TTF');
-  }
 
   .tooltip {
       display: inline-block;
@@ -97,7 +58,7 @@
 
   body {
       margin: 0;
-      font-family: "cardo";
+      font-family: Noto Sans,sans-serif;
       background: url(pozadina.jpg) no-repeat center center fixed;
       background-size: auto auto;
       -webkit-background-size: cover;
@@ -116,10 +77,7 @@
       margin: auto;
       margin-bottom: 50px;
   }
-  ul,
-  ol {
-      font-size: 18px
-  }
+  
 
   h1,
   h2,
@@ -128,7 +86,7 @@
   }
 
   .gla {
-      font-family: "Gla";
+      font-family: Noto Sans,sans-serif;
       color: rgb(149, 0, 4)
   }
 
@@ -173,7 +131,6 @@
 
   p {
       text-align: justify;
-      font-size: 18px
   }
 
   .zakaci {
