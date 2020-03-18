@@ -250,7 +250,7 @@ function stvori() {
                             if (countPieces == totalPieces) {
 
                                 swal({
-                                    html: '<h1 style="text-align:center">Čestitam</h1><img src="assets/' + slika + '" class="ikone2"/><br><br>',
+                                    html: '<h1 style="text-align:center">Čestitam</h1><img src="assets/' + slika + '" class="ikone2"/><br><br><p style="text-align:justify">Bašćanska ploča jedan je od najvrednijih spomenika rane hrvatske pismenosti, a datira se u doba oko 1100. godine. Izvorno je bila natpis na pregradnoj ploči (pluteus) pregrade koja je dijelila redovnički kor od crkvene lađe u crkvi svete Lucije u Jurandvoru (Baška Draga na otoku Krku). Od 1934. smještena je u zgradi Hrvatske akademije znanosti i umjetnosti.</p>',
                                     confirmButtonText: confirm_button,
                                     allowOutsideClick: false
                                 });
