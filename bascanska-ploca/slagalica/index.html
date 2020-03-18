@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Slagalica - Bašćanska ploča</title>
+    <title>Slagalica – Bašćanska ploča</title>
 
     <!-- Welcome to ZIM at http://zimjs.com - Code Interactive Media Pizzazz! 	        -->
     <!-- ZIM runs on the HTML Canvas powered by JavaScript and CreateJS http://createjs.com -->
     <!-- Founded by Inventor Dan Zen - http://danzen.com - Canadian New Media Award Winner 	-->
     <!-- ZIM is free to use. You can donate to help improve ZIM at http://zimjs.com/donate 	-->
-    <meta name="description" content="Spoji dijelove slagalice u Bašćansku ploču.">
+    <meta name="description" content="Složi Bašćansku ploču.">
     <meta name="author" content="Josip Mihaljević">
     <link rel="stylesheet" href="css/stil.css" />
     <script src="assets/createjs_1.1_min.js"></script>
@@ -24,8 +24,8 @@
     <script type="text/javascript" src="assets/index.js"></script>
     <meta name="viewport" content="width=device-width, user-scalable=no" />
     <link href="css/fontawesome-all.css" rel="stylesheet">
-    <meta property="og:title" content="Slagalica - Bašćanska ploča" />
-    <meta property="og:description" content="Spoji dijelove slagalice u Bašćansku ploču." />
+    <meta property="og:title" content="Slagalica – Bašćanska ploča" />
+    <meta property="og:description" content="Složi Bašćansku ploču." />
     <meta property="og:image" content="naslovnica.jpg" />
     <link rel="apple-touch-icon" sizes="180x180" href="http://jezik.hr/images//apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="http://jezik.hr/images/favicon-32x32.png">
@@ -56,10 +56,10 @@
             </div>-->
             <div id="content">
                 <h1 id="naslov">Složi Bašćansku ploču</h1>
-                <p class="opis">odaberite broj komadića i započnite igru</p>
+                <p class="opis">odaberite broj dijelova i započnite igru</p>
                 <div style="text-align: center;">
                     <div class="kom_izbornik">
-                        <span id="retci-oznaka">broj komadića po retcima:</span>
+                        <span id="retci-oznaka">broj dijelova u redcima:</span>
                         <select id="retci" onchange="broj()">
                             <option value="2">2</option>
                             <option value="3">3</option>
@@ -84,7 +84,7 @@
                         </select>
                     </div>
                     <div class="kom_izbornik">
-                        <span id="stupci-oznaka">broj komadića po stupcima:</span>
+                        <span id="stupci-oznaka">broj dijelova u stupcima:</span>
                         <select id="stupci" onchange="broj()">
                             <option value="2">2</option>
                             <option value="3">3</option>
@@ -109,7 +109,7 @@
                         </select>
                     </div>
                 </div>
-                <p class="centar"><span id="ukupan">ukupan broj komadića za slaganje: </span><span id="broj-puzzla"></span></p>
+                <p class="centar"><span id="ukupan">ukupan broj dijelova: </span><span id="broj-puzzla"></span></p>
                <h1 onclick="stvori();" style="text-align: center;cursor: pointer; color:#9D0C1E">započni
                </h1>
                <img onclick="stvori();" src="naslovna.jpg" style="display: block; margin: auto; max-width: 100%; max-height: 400px; cursor: pointer;">
